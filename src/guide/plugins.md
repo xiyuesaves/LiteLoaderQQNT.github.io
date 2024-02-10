@@ -31,4 +31,4 @@
 
 LiteLoaderQQNT 的插件基本发布在 GitHub，善用搜索可以快速的找到所需插件
 
-比如在搜索框键入关键词`LiteLoader`和`插件`，即可找到大量[LiteLoaderQQNT生态的插件](https://github.com/search?q=LiteLoader+%E6%8F%92%E4%BB%B6&type=repositories)
+比如在搜索框键入关键词`LiteLoaderQQNT`和`插件`，即可找到大量[LiteLoaderQQNT生态的插件](https://github.com/search?q=LiteLoaderQQNT+%E6%8F%92%E4%BB%B6&type=repositories)
